@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1718284975 source:c:\users\mlezman\desktop\c++ codsfot internship\book shop management system in c++\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+
